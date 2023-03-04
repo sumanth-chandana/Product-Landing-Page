@@ -1,3 +1,3 @@
 # Barkd 
-a Product-Landing-Page
-Using Bootstrap
+A Product-Landing-Page
+Using Html,CSS and Bootstrap
